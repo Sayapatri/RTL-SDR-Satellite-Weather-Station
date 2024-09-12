@@ -1,1 +1,1 @@
-# RTTY-baudot Arduino
+# RTL SDR Automated Weather Satellite Ground Station 

@@ -1,5 +1,5 @@
 # Automated NOAA Weather Satellite Ground Station
-
+![NOAA Weather Satellite GS]([https://example.com/path_to_image.png](https://github.com/Sayapatri/RTL-SDR-Satellite-Weather-Station/blob/main/img/Emcwci4U0AEnE2g.jpg)
 ## Overview
 
 In this project, you'll create a fully automated ground station to receive and decode NOAA weather satellite images and upload them to a website hosted on an AWS S3 bucket. With this setup, you won't need to manage server infrastructure — everything will be updated automatically.

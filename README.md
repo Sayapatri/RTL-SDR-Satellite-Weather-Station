@@ -9,7 +9,7 @@ In this project, you'll create a fully automated ground station to receive and d
 ## Hardware Components
 
 - **Raspberry Pi 3 Model B** (Wi-Fi preferred, since it may be deployed outdoors)
-- **RTL-SDR V3** (software-defined radio dongle)
+- **RTL-SDR V3** (software-defined radio dongle).
 - **Dipole Antenna** (tuned to 137 MHz)
 - **Coaxial Cable** (to connect the antenna to the Pi)
 
